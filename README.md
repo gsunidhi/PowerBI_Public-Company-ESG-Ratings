@@ -1,4 +1,4 @@
-# PowerBI_Public-Company-ESG-Ratings
+# PowerBI Public Company ESG Ratings
 ESG Ratings for Top Public Companies using Power BI where ESG ratings for over 700 mid / large-cap companies across various industries have been analysed as follows:
 
 1. Overall ESG Insights for Industries
