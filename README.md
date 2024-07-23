@@ -2,5 +2,13 @@
 ESG Ratings for Top Public Companies using Power BI
 
 
-![Employee_Reimbursement](Employee_Reimbursement.png "Employee_Reimbursement")
+![Overall_ESG_Insights](Overall_ESG_Insights.png "Overall_ESG_Insights")
+
+![ESG_Report](ESG_Report.png "ESG_Report")
+
+![Environment_Report](Environment_Report.png "Environment_Report")
+
+![Social_Report](Social_Report.png "Social_Report")
+
+![Governance_Report](Governance_Report.png "Governance_Report")
 
